@@ -1,0 +1,17 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files and logs
+*.tmp
+*.swp
+*.log
+
+# Local secrets and generated dependencies/build output
+.env
+.env.*
+node_modules/
+dist/
+build/

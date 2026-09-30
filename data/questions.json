@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "id": "q01",
+      "prompt": "Qual componente executa instruções e coordena as operações de um computador?",
+      "choices": [
+        { "id": "a", "text": "Processador (CPU)" },
+        { "id": "b", "text": "Monitor" },
+        { "id": "c", "text": "Teclado" },
+        { "id": "d", "text": "Alto-falante" }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "q02",
+      "prompt": "Para que serve principalmente a memória RAM?",
+      "choices": [
+        { "id": "a", "text": "Guardar arquivos permanentemente mesmo sem energia" },
+        { "id": "b", "text": "Armazenar temporariamente dados e programas em uso" },
+        { "id": "c", "text": "Conectar o computador à internet" },
+        { "id": "d", "text": "Exibir imagens na tela" }
+      ],
+      "correctChoiceId": "b"
+    },
+    {
+      "id": "q03",
+      "prompt": "Qual destes é um sistema operacional?",
+      "choices": [
+        { "id": "a", "text": "Bluetooth" },
+        { "id": "b", "text": "HDMI" },
+        { "id": "c", "text": "Linux" },
+        { "id": "d", "text": "USB" }
+      ],
+      "correctChoiceId": "c"
+    },
+    {
+      "id": "q04",
+      "prompt": "Qual é a função de um navegador web?",
+      "choices": [
+        { "id": "a", "text": "Criar energia para o computador" },
+        { "id": "b", "text": "Reparar fisicamente o teclado" },
+        { "id": "c", "text": "Substituir o sistema operacional" },
+        { "id": "d", "text": "Acessar e exibir páginas e serviços da web" }
+      ],
+      "correctChoiceId": "d"
+    },
+    {
+      "id": "q05",
+      "prompt": "Qual unidade representa um byte?",
+      "choices": [
+        { "id": "a", "text": "Um grupo de 8 bits" },
+        { "id": "b", "text": "Um grupo de 8 arquivos" },
+        { "id": "c", "text": "Um tipo de processador" },
+        { "id": "d", "text": "Uma conexão de rede" }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "q06",
+      "prompt": "Qual dispositivo é usado principalmente para inserir texto no computador?",
+      "choices": [
+        { "id": "a", "text": "Projetor" },
+        { "id": "b", "text": "Teclado" },
+        { "id": "c", "text": "Impressora" },
+        { "id": "d", "text": "Monitor" }
+      ],
+      "correctChoiceId": "b"
+    },
+    {
+      "id": "q07",
+      "prompt": "O que uma senha forte ajuda a proteger?",
+      "choices": [
+        { "id": "a", "text": "A velocidade do ventilador do computador" },
+        { "id": "b", "text": "O tamanho físico da tela" },
+        { "id": "c", "text": "O acesso a contas e informações pessoais" },
+        { "id": "d", "text": "A quantidade de teclas do teclado" }
+      ],
+      "correctChoiceId": "c"
+    },
+    {
+      "id": "q08",
+      "prompt": "Qual destas opções é um exemplo de armazenamento permanente?",
+      "choices": [
+        { "id": "a", "text": "Memória RAM" },
+        { "id": "b", "text": "Cache do processador" },
+        { "id": "c", "text": "Registrador da CPU" },
+        { "id": "d", "text": "Unidade SSD" }
+      ],
+      "correctChoiceId": "d"
+    },
+    {
+      "id": "q09",
+      "prompt": "O que é um algoritmo?",
+      "choices": [
+        { "id": "a", "text": "Uma sequência de passos para resolver um problema" },
+        { "id": "b", "text": "Um componente que mostra imagens" },
+        { "id": "c", "text": "Um cabo usado para carregar um dispositivo" },
+        { "id": "d", "text": "Um tipo de arquivo de áudio" }
+      ],
+      "correctChoiceId": "a"
+    },
+    {
+      "id": "q10",
+      "prompt": "Qual comportamento ajuda a evitar golpes por mensagens?",
+      "choices": [
+        { "id": "a", "text": "Compartilhar códigos de acesso com quem os pedir" },
+        { "id": "b", "text": "Verificar o remetente e desconfiar de links inesperados" },
+        { "id": "c", "text": "Usar a mesma senha em todos os serviços" },
+        { "id": "d", "text": "Desativar todas as atualizações de segurança" }
+      ],
+      "correctChoiceId": "b"
+    }
+  ]
+}
